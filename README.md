@@ -16,7 +16,7 @@ O desafio desse projeto consiste na criação de uma landing page que simula uma
 
 Quer conferir como ficou a página? 
 
-[Visite o projeto online]()
+[Visite o projeto online](https://eltonprado.github.io/Projeto12_ExploreSemLimites/)
 
 <br>
 
